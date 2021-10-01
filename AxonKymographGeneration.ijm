@@ -1,5 +1,5 @@
 //Sydney Cason, last updated 10/1/2021
-Please adjust for your data. Also, if you would like to amend any inefficiencies, feel free. I am available for questions or comments via email sydney.e.cason@gmail.com
+Please adjust for your data. Also, if you would like to ammend any inefficiencies, feel free. I am available for questions or comments via email sydney.e.cason@gmail.com
 //open image
 waitForUser("Open Image", "Drag image into FIJI pane to open");
 rename("Axon");
